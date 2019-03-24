@@ -11,6 +11,7 @@ namespace consolAPP
     {
         static void Main(string[] args)
         {
+            
             Producer producer = new Producer();
             Consumer consumer = new Consumer();
 
